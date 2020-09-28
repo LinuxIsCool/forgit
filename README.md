@@ -1,7 +1,7 @@
 <img src="https://cdn.rawgit.com/oh-my-fish/oh-my-fish/e4f1c2e0219a17e2c748b824004c8d0b38055c16/docs/logo.svg" align="left" width="144px" height="144px"/>
 
-<h1 align="center">💤 forgit</h1>
-<p align="center">
+<h1 align="left">💤 forgit</h1>
+<p align="left">
     <em> A plugin for <a href="https://github.com/oh-my-fish/oh-my-fish">Oh My Fish</a> for using git interactively. Powered by <a href="https://github.com/junegunn/fzf">junegunn/fzf</a>. Ported from <a href="https://github.com/wfxr/forgit">wfxr/forgit</a>.</em>
 </p>
 
